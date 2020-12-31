@@ -1,8 +1,9 @@
 def gv
-
+//the above gv will be later used for holding the groovy script file.
 
 /* this is a multi-line comment in jenkinsfile
   the jenkinsfile shold be named Jenkinsfile with capital J.
+  Jenkinsfile to be maintained in the root repo folder.
 */
 
 // this is a single line comment in jenkinsfile
